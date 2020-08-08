@@ -30,4 +30,4 @@
 <br />
 <br />
 
-<img alt="mwhittet's Github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mwhittet&show_icons=true&hide_border=true&count_private=true" />
+<img alt="mwhittet's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwhittet&layout=compact&bg_color=fff&title_color=24292e&text_color=24292e" />
