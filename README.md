@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img alt="Michael Whittet logo" src="https://raw.githubusercontent.com/mwhittet/portfolio/master/src/images/logo.svg" height="60" width="60" />
 </p>
 
