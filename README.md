@@ -23,4 +23,4 @@
 <br />
 <br />
 
-<img alt="mwhittet's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwhittet&bg_color=0d1117&border_color=fff&title_color=fff&text_color=fff" />
+<img alt="mwhittet's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwhittet&bg_color=0d1117&border_color=30363d&title_color=fff&text_color=fff" />
