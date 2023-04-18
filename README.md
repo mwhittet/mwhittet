@@ -1,9 +1,8 @@
 ## Hello there, I'm Mike :wave:, a Front End Developer currently working @[WhichUK](https://www.which.co.uk/)
 
 - :computer: I’m working on a mix of personal & professional projects
-- :book: I’m learning more about Gatsby and AWS
+- :book: I never stop learning!
 - :thumbsup: Happy to help or to collaborate on any project
-- :bulb: Feel free to ask me about anything
 - :mailbox_with_mail: You can reach me on my [portfolio](https://www.michaelwhittet.co.uk)
 - :boom: Fun fact, I do alot of DIY :hammer:
 
