@@ -1,12 +1,12 @@
-## Hello there, I'm Mike :wave:, a Front End Developer currently working @[WhichUK](https://www.which.co.uk/)
+## Hello there :wave:, I'm Mike, a front end developer currently working @[WhichUK](https://www.which.co.uk/)
 
 - :computer: I’m working on a mix of personal & professional projects
 - :book: I never stop learning!
 - :thumbsup: Happy to help or to collaborate on any project
-- :mailbox_with_mail: You can reach me on my [portfolio](https://www.michaelwhittet.co.uk)
+- :mailbox_with_mail: You can reach me via my [portfolio](https://www.michaelwhittet.co.uk/contact)
 - :boom: Fun fact, I do alot of DIY :hammer:
 
-## Languages and Tools:
+## Languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
