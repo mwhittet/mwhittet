@@ -1,7 +1,7 @@
-## Hello there :wave:, I'm Mike, a front end developer currently working @[WhichUK](https://www.which.co.uk/)
+## Hello there :wave:, I'm Mike, a front end developer
 
 - :computer: I’m working on a mix of personal & professional projects
-- :book: I never stop learning!
+- :book: I never stop learning (Working on a new portfolio)!
 - :thumbsup: Happy to help or to collaborate on any project
 - :mailbox_with_mail: You can reach me via my [portfolio](https://www.michaelwhittet.co.uk/contact)
 - :boom: Fun fact, I do alot of DIY :hammer:
@@ -17,7 +17,9 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Storybook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
 
 <br />
 <br />
